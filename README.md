@@ -1,2 +1,2 @@
 # Python
-I am relearning python so here's a not so impressive stating projects here
+Relearning Python — just sharing some beginner projects here as I get back into the flow!
