@@ -75,7 +75,7 @@ class MiniBrainApp:
             f"Reward: {reward}"
         ))
 
-# 🧠 Launch GUI
+#Launch GUI
 root = tk.Tk()
 app = MiniBrainApp(root)
 root.mainloop()
